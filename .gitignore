@@ -1,15 +1,4 @@
-# === Node.js & Backend (server) ===
-server/node_modules/
-server/package-lock.json
-server/.env
-server/.env.local
-server/.env.development.local
-server/.env.test.local
-server/.env.production.local
-server/logs/
-server/*.log
-server/pids/
-server/*.pid
+
 
 # === React / Next.js Frontend (client) ===
 client/node_modules/
