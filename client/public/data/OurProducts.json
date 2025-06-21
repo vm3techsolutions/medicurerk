@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Obstetrics",
+    "img": "/assets/home/OurProduct1.png"
+  },
+  {
+    "id": 2,
+    "title": "Andrology",
+    "img": "/assets/home/OurProduct2.png"
+  },
+  {
+    "id": 3,
+    "title": "Urology",
+    "img": "/assets/home/OurProduct3.png"
+  },
+  {
+    "id": 4,
+    "title": "Osteology",
+    "img": "/assets/home/OurProduct4.png"
+  },
+  {
+    "id": 5,
+    "title": "Neurology",
+    "img": "/assets/home/OurProduct4.png"
+  },
+  {
+    "id": 6,
+    "title": "Cardiology",
+    "img": "/assets/home/OurProduct4.png"
+  },
+  {
+    "id": 7,
+    "title": "Dermatology",
+    "img": "/assets/home/OurProduct4.png"
+  },
+  {
+    "id": 8,
+    "title": "Endocrinology",
+    "img": "/assets/home/OurProduct4.png"
+  }
+]

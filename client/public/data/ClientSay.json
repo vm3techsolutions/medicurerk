@@ -1,0 +1,32 @@
+[
+  {
+    "name": "R. K. Agrawal",
+    "text": "We've seen remarkable results using their diabetes and bone health range—reliable, effective, and trusted by our patients.",
+    "image": "/clients/client1.jpg"
+  },
+  {
+    "name": "Dr. A. Mehta",
+    "text": "These supplements have brought noticeable improvements to our patients' well-being.",
+    "image": "/clients/client2.jpg"
+  },
+  {
+    "name": "S. Banerjee",
+    "text": "The product quality and consistency have earned our trust over time.",
+    "image": "/clients/client3.jpg"
+  },
+  {
+    "name": "K. Desai",
+    "text": "We confidently recommend this range to anyone looking for effective health support.",
+    "image": "/clients/client4.jpg"
+  },
+  {
+    "name": "M. Iyer",
+    "text": "Our patients have responded positively, and we're seeing real results.",
+    "image": "/clients/client5.jpg"
+  },
+  {
+    "name": "N. Kapoor",
+    "text": "Exceptional service and trusted product quality keep us coming back.",
+    "image": "/clients/client6.jpg"
+  }
+]
