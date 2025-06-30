@@ -65,7 +65,7 @@ export default function TestimonialCarousel() {
   const totalDots = Math.ceil(testimonials.length / 2);
 
   return (
-    <div className="relative w-full mx-auto px-6 py-10">
+    <div className="relative w-full mx-auto px-6 py-14">
       <h2 className="text-center text-2xl sm:text-3xl font-bold text-[#125C3A] mb-8">
         WHAT OUR CLIENTS SAY ABOUT US
       </h2>

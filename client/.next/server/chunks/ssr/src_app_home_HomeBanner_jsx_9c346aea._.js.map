@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///C:/VM3/rkmedicure/client/src/app/home/HomeBanner.jsx"],"sourcesContent":["\"use client\";\r\n\r\nimport Image from \"next/image\";\r\n\r\nexport default function HomeBanner() {\r\n  return (\r\n    <section className=\"relative w-full sm:h-[80vh] h-[30vh]\">\r\n      {/* Banner Image */}\r\n      <Image\r\n        src=\"/assets/home/HomeBanner.png\"\r\n        alt=\"Home Banner\"\r\n        layout=\"fill\"\r\n        objectFit=\"cover\"\r\n        className=\"brightness-\"\r\n        priority\r\n      />\r\n\r\n      {/* Text Overlay at Bottom */}\r\n      <div className=\"absolute inset-0 flex flex-col justify-end items-center text-center text-white  \">\r\n        <h1 className=\"text-2xl md:text-7xl font-bold\">\r\n          SCIENCE FOR BETTER HEALING\r\n        </h1>\r\n      </div>\r\n    </section>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;AAEA;AAFA;;;AAIe,SAAS;IACtB,qBACE,8OAAC;QAAQ,WAAU;;0BAEjB,8OAAC,6HAAA,CAAA,UAAK;gBACJ,KAAI;gBACJ,KAAI;gBACJ,QAAO;gBACP,WAAU;gBACV,WAAU;gBACV,QAAQ;;;;;;0BAIV,8OAAC;gBAAI,WAAU;0BACb,cAAA,8OAAC;oBAAG,WAAU;8BAAiC;;;;;;;;;;;;;;;;;AAMvD","debugId":null}}]
-}

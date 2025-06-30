@@ -1,0 +1,452 @@
+[
+
+ {
+  "id": 1,
+  "title": "EZY– PERIOD",
+  "quantity": "200 ml (Syrup)",
+  "desc": "For Effective Management of Leucorrhoea & UTI with High Palatability In Competitive",
+  "image": "/assets/product/Card1.png",
+  "link": "/product/ezy-period",
+  "details": [
+     {
+      "title": "",
+      "points": [
+        "Leucorrhoea",
+        "Irregular Menses",
+        "False Menopausal Syndrome",
+        "UTI & PCOD "
+      ]
+    },
+    {
+      "title": "UTI & PCOD ; Competitive Advantage :",
+      "points": [
+        "Multi-Targeted Action on Female Reproductive Health With Great TasteAshoka, Ladhra & Shatavari regulate hormones, reduce heavy bleeding, andimprove endometrial health. Stress & Energy Support Energy Support with Adaptogens",
+        "Ashwagandha, Balo & Moosli combat fatigue, support adrenal health & bootfertility naturally.",
+        "Anti-inflammatory, Astringent & Antioxidant BlandIngredients like Majuphal, Amlo & Daru Haldi help control inflammation, leucorrhea, and pelvic pain"
+        
+        
+      ]
+    },
+    {
+      "title": "Common Issues with Other Uterine Tonics :",
+      "points": [
+        "Limited Action FormulaPoor Compliance & Clinical Effectiveness",
+        "Lack of complete hormone, stress & uterine support due to fewer or underdosed herbs.Bitter taste, outdated compositions, and weak results in real-world cases."
+      ]
+    }  
+   
+  ]
+},
+
+
+  {
+    "id": 2,
+    "title": "MEDI HEMINIC",
+    "quantity": "10 x 1 x 10 (Tablets)",
+    "desc": "Ferric Pyrophosphate (Liposomal) 12mg Vitamin C 80ng-Fulic Acid 146.47ncg Cyanocobalasin 2.2 mg Suy Lecithin 30mg",
+    "image": "/assets/product/Card2.png",
+    "link": "/product/medi-heminic",
+  "details": [
+    {
+      "title": "Fuel Health with Iron, Vitamin C, and Vit B12; Iron Deficiency in Pregnancy & Lactation",
+      "points": [
+        "Heavy Menstruation",
+        "Pregnency & Lactation",
+        "Iron deficiency anaemia",
+        "Post partum & haemanhage;"
+      ]
+    },
+    {
+      "title": " Ferric Pyrophosphate (posomal)",
+      "points": [
+        "Improv morial side ef absorpion with Vansin C Enharess upta and ist immunity",
+        "Folic Acid Supports red blood cell production",
+        "Cyanocobelarsin (12) Vital for nense health and blood cell formation",
+        "Soy Lecithin: Stabilizes the formulation for better rutrient delivery"
+      ]
+    }
+  ]
+  },
+
+
+  {
+    "id": 3,
+    "title": "MAX DIGESTIO",
+    "quantity": "200 ml (Syrup)",
+    "desc": "Alphe Amylase 50mg Alpha-Belectosidase 200mg Lectase 7mg, Protease 25mg Papain 25mg, Blucamylese 5mg. Calulose 6.25mg. Lipase 2.5mg, Caraway Of 125mcg. Cardamom Dil 125mcg. Cinnamon Oil 125mcg & Ginger Extract 125mcg;",
+    "image": "/assets/product/Card3.png",
+    "link": "/product/max-digestio",
+  "details": [
+    {
+      "title": "Caraway Oil: ",
+      "points": [
+        "Relieves digestive discomfort",
+        " stimulates digestive discomfort"
+      ]
+    },
+    {
+      "title": "Cinnamon Oil : ",
+      "points": [
+        "Soothes the stomach lining",
+        "exhibits anti-inflammatory properties"
+      ]
+    },
+    {
+      "title": "Cordomon Oil : ",
+      "points": [
+        "Stimulates appetite",
+        "supports gut health"
+      ]
+    },
+    {
+      "title": "Ginger Extract: ",
+      "points": [
+        "Relieves nausea and motion sickness",
+        "reduces inflammation in the digestive tract"
+      ]
+    },
+    {
+      "title": " Lactose digestion: ",
+      "points": [
+        " Lactose breaks down complex lactose sugars into glucose which can be utilized for energy."
+      ]
+    },
+    {
+      "title": "Carbohydrate Digestion:",
+      "points": [
+        "Alpha Amylase",
+        "Glucoamylase",
+        "Cellulase break down carbs into sugars."
+      ]
+    },
+    {
+      "title": "Protein Digestion: ",
+      "points": [
+        "Protease and Papain break down proteins into amino acids.",
+        "reduces inflammation in the digestive tract"
+      ]
+    },
+     {
+      "title": "Fat Digestion: ",
+      "points": [
+        "Lipase breaks down fats into fatty acids and glycerol."
+        
+      ]
+    }
+  ]
+  },
+
+
+  {
+    "id": 4,
+    "title": "OVA–THRIVE",
+    "quantity": "10 (Sachets)",
+    "desc": "Myo-Inositol 2gm+D Chiro Inositol 50 mg+Melatonin 2mg+Alpha Lipoic Acid 400mg",
+    "image": "/assets/product/Card4.png",
+    "link": "/product/ova-thrive",
+  "details": [
+    {
+      "title": "",
+      "points": [
+        "Myo-inositol and D-chiro inositol (40 : 1 Ratio) : Improves insulin sensitivity and hormonal balance",
+        " Alpha Lipoic Acid : Reduces oxidative stress leading to better egg quality",
+        " Vitamin E and Coenzyme Q10 : Boosts energy in eggs, improving their overall quality, L-methylfolate : Essential for helthy egg development and DNA synthesis",
+        "Piperine and choline : supports cellular health and enhances embryo development, N- actyl Cysteine : supports ovarian health and boosts insulin sensitivity"
+      ]
+    }
+  ]
+  },
+
+
+  {
+    "id": 5,
+    "title": "SPERMIFY–PRO",
+    "quantity": "10 x 1 x 10 (Softgel Capsules)",
+    "desc": " L Carnitine L-Tartrate, Withania Somnifera, Co-Enzyme Q10, Omega-3 Fatty Acid, Zinc Oxide, Lycopene, Folic Acid, Selenium, Vitamin D3, Cyanocobalamin Softgel Capsules; Improves Quality, Quantity & Performance of Sperm",
+    "image": "/assets/product/Card5.png",
+    "link": "/product/spermify-pro",
+  "details": [
+    {
+      "title": "",
+      "points": [
+        "Boosts Metility & Quality:7 Carnitine Tartiste and Coenzyme Q10 improve sperm motility and protect from axidative damage.",
+        "Supports Testosterone Levels: Withania Somnifera (Ashwagandhaj boosts testosterone, enhancing sperm production.",
+        "Antioxidant Protection: Lycopene, Selenium, and Zinc protect sperm bom oxidative stress and improve sperm qually",
+        "Promotes Sperm Production: Folic Acid and Vitamin 812 support DNA synthesis and increase sperm count",
+        "Enhances Reproductive Health: Omega 3 and Vitomin D3 improve sperm membrane integrity and balones honmones",
+        "Fertility and Sterility : Nutritional deficiency may be en importent cause of impaired reproductive function and is principle is amenable to curative and preventive action by supplementation",
+        "Advance in Bioscience and Biotechnology : Various nutritional elements are involved in the process of spermatogenesis, sperm maturation, sperm motility, development of sertoli cells,leydig cells, capacitation and fertilization."
+      ]
+    }
+  ]
+  },
+
+
+  {
+    "id": 6,
+    "title": "URO–EZ",
+    "quantity": "Sachets",
+    "desc": " Cronberry Extme 200ng+D-Mannose 300mg+Potassium Magnesian Chote 978mg Sochen",
+    "image": "/assets/product/Card6.png",
+    "link": "/product/uro-ez",
+  "details": [
+    {
+      "title": "",
+      "points": [
+        "Cranberry Extract: Prevents bacterial adhesion, especially E coli, and protects urinary issues with anticoxidant properties.",
+        "Safe & suitable alternative to antibiotics for long term use Potassium Magnesium Citrate: Alkalintzes urine, reduces acidity, prevents kidney stones, and supports urinary heath Helps suppress the disturbing symptoms associated with UTI like burning Micturition, itching etc.;",
+        "Moderate severe UTI , Recurrent UTI's , Burning Mictruition, Cystitis"
+      ]
+    }
+  ]
+  },
+
+
+  {
+    "id": 7,
+    "title": "DYNACORAL",
+    "quantity": "10 x 10 (Tablets)",
+    "desc": "Calcium Citrate 500mg+Calcitriol 0.25mcg+Zinc 7.5mg Magnesium 40mg Tablets",
+    "image": "/assets/product/Card7.png",
+    "link": "/product/dynacoral",
+  "details": [
+    {
+      "title": "",
+      "points": [
+        "Calcium citrate: Supports bone density, preventing asteoporosis and calcium deficiency,Calcitriol",
+        "boosts calcium absorption , ensuring proper bone mineralization and hormonal balance in women , Zinc",
+        "promotes bone strength, immune health and supports reproductive health, Magnesium ",
+        " enhances calcium absorption, reducs musle cramp and supports hormonal regulation",
+        "osteoporosis/ osteomalacia , pregnancy/ lactation, postmenopausal bone loss, hypoparathyroidism, drug induced osteoporosis"
+      ]
+    }
+  ]
+  },
+
+
+  {
+    "id": 8,
+    "title": "GYNEVOLVE",
+    "quantity": "10 x 1 x 10 (Tablets)",
+    "desc": "Dydrogesterone 10mg Tablets",
+    "image": "/assets/product/Card8.png",
+    "link": "/product/gynevolve",
+  "details": [
+    {
+      "title": "",
+      "points": [
+        "Progesterone deficiency , endometriosis, support of early pregnancy, menstrual disorders ( irregular periods, heavy bleeding )",
+        "Supports pregnancy : prepares  and maintains the uterine lining for implantation and early pregnancy",
+        "Treats Menstrual  disorders : regulates periods, reduces heavy bleeding and alleviates pain",
+        "manages endometriosis : balances hormones, reduces pain, and prevents abnormal tissue growth",
+        "Used in IVF : supports the luteal phase for successful implantation"
+      ]
+    }
+  ]
+  },
+
+ 
+  {
+    "id": 9,
+    "title": "METPARK–G 0.5",
+    "quantity": "Tablets",
+    "desc": "In mild to moderate Diabetes",
+    "image": "/assets/product/Card9.png",
+    "link": "/product/metpark-g-0-5",
+  "details": [
+    {
+      "title": "",
+      "points": [
+        "Better Glycemic Control : Reduces CV mortality by reducing PPG scores by 12% more",
+        "Effective in Diabetic patients with cardiac complications : Better HbA1c reduction compared to DPP 4 inhibitors +Metformin",
+        "Improvement in HbA1c scores by 116 as compared to Glibenclamide & combination.",
+        "Improvement in HbA1c scores from 8.5% to 7.8% as compared to plain glimepiride."
+      ]
+    }
+  ]
+  },
+
+
+  {
+    "id": 10,
+    "title": "METPARK–G2 FORTE",
+    "quantity": "Tablets",
+    "desc": "In mild to moderate Diabetes",
+    "image": "/assets/product/Card10.png",
+    "link": "/product/metpark-g2-forte",
+  "details": [
+    {
+      "title": "",
+      "points": [
+        "Glimepiride 2 mg & Metformin 1000 mg (SR)",
+        "Better Glycemic Control : Reduces CV mortality by reducing PPG scores by 12% more.",
+        " Effective in Diabetic patients with cardlac complications : Better HhAic roduction compaired to DPP 4 Inhibitors Metformin",
+        "Improvement in HbAlc scores by 11% as compared to Glibendamide & combination.",
+        "Improvement in HbAlc scores from 8.5% to 7.8% as compared to plain glimepiride"
+      ]
+    }
+  ]
+  },
+
+
+  {
+    "id": 11,
+    "title": "METPARK–G3 FORTE",
+    "quantity": "Tablets",
+    "desc": " In Management of type 2 Diabetes; Glimepiride 3 mg & Metformin 1000 mg (58) ",
+    "image": "/assets/product/Card11.png",
+    "link": "/product/metpark-g3-forte",
+  "details": [
+    {
+      "title": "",
+      "points": [
+        "Better Glycemic Control: Reduces CV mortality by reducing PPG scores by 123% more.",
+        "Effective in Diabetic potients with cardiac complications : Better HbA1c reduction compaired to DPP 4 Inhibitors Metformin",
+        "Improvement in HbA1c scores by 11% as compared to Glibendamide & combination.",
+        "Improvement in HbAle scores from 8.5% το 7.8% as compared to plein glimepiride."
+      ]
+    }
+  ]
+  },
+
+
+  {
+    "id": 12,
+    "title": "GLIPTINPARK–M",
+    "quantity": "Tablets",
+    "desc": "A one choice for the Diabetic Patients",
+    "image": "/assets/product/Card12.png",
+    "link": "/product/gliptinpark-m",
+  "details": [
+    {
+      "title": "",
+      "points": [
+        "Helps to prevent serious complications of high blood sugar, kidney damage, blindness, nerve problema. Inse of limbs, and sexual function problems.",
+        "It produces its action by lowering the blood sugar Invel by increasing the amount of insulin that is released by the pancreas and liver It also helps so reduce the risic of having a heart attack or stroke.",
+        "Controlling high blood supar helps prevent kidney damage, blindness, nerve proldems, loss of limbs, and susaral function problems."
+      ]
+    }
+  ]
+  },
+
+
+  {
+    "id": 13,
+    "title": "GLIPTINPARK",
+    "quantity": "Tablets",
+    "desc": "Type 2 Diabetes",
+    "image": "/assets/product/Card13.png",
+    "link": "/product/gliptinpark",
+  "details": [
+    {
+      "title": "GLIPTINPARK",
+      "points": [
+        " Control Diabetes, Bring back the Happiness ",
+        "Teneligliptin 20 mg TABLETS",
+        "Teneligliptin increases the amount of insulin released by the pancreas",
+        "which in tum lowers the blood glucose levels Teneligliptin is used to help control slood sugar levels in patients affected by Type 2 Diabetes",
+        "Teneligliptin is a DOP 4 Inhibitor",
+        "Gliptinpark is responsible for degrading incretins such as GLP-1 (Glucagon-Like Peptide 11, which are needed by the body to control bloodid sugar",
+        " Gliptinpark leeds Tower blood glucose levels",
+        "Thereby making this medicine effective at controling Type 2 Diabetes"
+      ]
+    }
+  ]
+  },
+
+
+  {
+    "id": 14,
+    "title": "TWINPARK–T",
+    "quantity": "Tablets",
+    "desc": "In difficult to treat Hypertensive patients",
+    "image": "/assets/product/Card14.png",
+    "link": "/product/twinpark-t",
+  "details": [
+    {
+      "title": "",
+      "points": [
+        "Telmisartan 40 mg & Cilnidipine 10 mg TABLETS",
+        "Telmisartan Effective in lowering B.P. in the early moming when risk of heart attack is very high",
+        "Reduces BP in high risk and difficult to control patients"
+      ]
+    },
+    {
+      "title": "Cilnidipine",
+      "points": [
+        "Reduces higher B.P. in hypertensive patients especially in the morning and night Improves renal function and lipid metabolism compared To other CCBS Significantly less pedal edema and dizziness compared to Amlodipine"
+      ]
+    }
+  ]
+  },
+
+
+  {
+    "id": 15,
+    "title": "TELPARK–TRIO",
+    "quantity": "Tablets",
+    "desc": "In hypertensive conditions",
+    "image": "/assets/product/Card15.png",
+    "link": "/product/telpark-trio",
+  "details": [
+    {
+      "title": "",
+      "points": [
+        "Telmisartan 40 mg. Amlodipine 5 mg & Hydrochloride 12.5 mg TABLETS",
+        "he vinoconstriction and aldosteron-Secreting effects of angiotensin Lihibit fast ditribution in most thoues.",
+        "Reduces arterial bicod pressure Prime choice for treating primary",
+        "hypertension Improves glucous metabolism in hypertensive paciunts with the metabolic syndrome in addition to its anti-hypertensive effect",
+        "Patients With Mild To Severe Hypertension Diabetic Hypertensive Elderly Hypertensives."
+      ]
+    }
+  ]
+  },
+
+
+  {
+    "id": 16,
+    "title": "CURONUROPARK–B",
+    "quantity": "10 (Sachets)",
+    "desc": "The right approach in neuropathic pain",
+    "image": "/assets/product/Card16.png",
+    "link": "/product/curonuropark-b",
+  "details": [
+    {
+      "title": "",
+      "points": [
+        "Mathylcobalamin 1500 mcg, Alpha Lipoic Acid 100 mg Pyridoalne HCI 3 mg. Benfotiamine 150 mg, nusitol 100 mg. Chromium Polynicotinate 200 mg.",
+        "Selenium Dioxide 55 meg & Folic Acid 5 mg CAPSULES; A Powerful Neuron Rejuvenator; ardioprolective Neuroprotective",
+        "Offers antioxidant, neuroprotective and and inflammatory properties Entures neuronal protection and regeneration.",
+        "Acts as a potent antioxidant that improves nerve blood flow, reduces oxidative stress in diabetic petients Reduces the nok of cardiovascular diseases and stroke by reducing tryperhomocysteinemi"
+      ]
+    }
+  ]
+  },
+
+  
+  {
+    "id": 17,
+    "title": "RAGNA-DSR",
+    "quantity": "Capsules",
+    "desc": "The right option for various Acid - peptic Conditions",
+    "image": "/assets/product/Card17.png",
+    "link": "/product/clinimag-z",
+  "details": [
+    {
+      "title": "",
+      "points": [
+        "Rabeprazole 20 mg & Domperidone 30 mg (Sustained Release) CAPSULES; Rabeprazole",
+        "More potent proton pump inhibitor (P) Faster ilecovery Enhanced Mucin production.",
+        "Consistent & Prolonged eflect Minimal dependency on CYP2C19 Domperidune Prevents nausica & vomiting.",
+        "lelieves upper abdominal discomfort, seme-of fullness and regurgitation of stomach contents. ",
+        "INDICATIONS",
+        "Ashwagandha, Balo & Moosli combat fatigue, support adrenal health & bootfertility naturally.",
+        "BERD",
+        "Dyspepsia",
+        "Heart Burn",
+        "Peptic Ulcer"
+      ]
+    }
+  ]
+  }
+]

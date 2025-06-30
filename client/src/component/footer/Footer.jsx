@@ -31,10 +31,10 @@ export default function Footer() {
 
         {/* Pages */}
         <div>
-          <h3 className="font-semibold text-lg mb-3 text-[#191818]">Pages</h3>
-          <ul className="space-y-2 text-[#191818]">
+          <h3 className="font-semibold text-xl mb-3 text-[#191818]">Pages</h3>
+          <ul className="space-y-2 text-[#191818] ">
             <li><Link href="/" className="">Home</Link></li>
-            <li><Link href="/about" className="">About Us</Link></li>
+            <li><Link href="/aboutUs" className="">About Us</Link></li>
             <li><Link href="/product" className="">Product</Link></li>
             <li><Link href="/blog" className="">Blog</Link></li>
             <li><Link href="/contact" className="">Contact Us</Link></li>
@@ -43,29 +43,29 @@ export default function Footer() {
 
         {/* Quick Links */}
         <div>
-          <h3 className="font-semibold text-lg mb-3 text-[#191818]">Quick Links</h3>
+          <h3 className="font-semibold text-xl mb-3 text-[#191818]">Quick Links</h3>
           <ul className="space-y-2 text-[#191818]">
             <li><Link href="#" className="">Privacy Policy</Link></li>
             <li><Link href="#" className="">Terms & Conditions</Link></li>
             <li><Link href="#" className="">Disclaimer</Link></li>
-            <li><Link href="#" className="">Cookie Policy</Link></li>
+            
           </ul>
         </div>
 
        {/* Contact Us */}
 <div>
-  <h3 className="font-semibold text-lg mb-3 text-[#191818]">Contact Us</h3>
+  <h3 className="font-semibold text-xl mb-3 text-[#191818]">Contact Us</h3>
   <ul className="space-y-4 text-[#191818]">
     <li className="flex items-center gap-2">
       <FiPhone className="text-[#125C3A]"/>
       <a href="tel:+91111111111" className="hover:underline">
-        +91 123456789
+        +91- 123456789
       </a>
     </li>
     <li className="flex items-center gap-2">
       <FiMail className="text-[#125C3A]"/>
       <a href="mailto:info@ekmedical.com" className="hover:underline">
-        info@rkmedical.com
+        info@rkmedicure.com
       </a>
     </li>
     <li className="flex items-center gap-2">

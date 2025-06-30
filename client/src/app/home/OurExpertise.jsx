@@ -16,7 +16,7 @@ const expertiseData = [
 
 export default function ExpertiseGrid() {
   return (
-    <div className="py-10  text-center bg-white">
+    <div className="py-14  text-center bg-white">
       <h2 className=" text-2xl sm:text-3xl font-bold text-[#125C3A] mb-8">OUR EXPERTISE</h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 px-6 sm:px-16 mx-auto">
         {expertiseData.map((item, index) => (

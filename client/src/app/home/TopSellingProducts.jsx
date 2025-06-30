@@ -9,7 +9,7 @@ export default function Products() {
 
   useEffect(() => {
     const fetchData = async () => {
-      const res = await fetch("/data/TopSellingProducts.json");
+      const res = await fetch("/data/home/TopSellingProducts.json");
       const data = await res.json();
       setProductData(data);
     };
@@ -20,7 +20,7 @@ export default function Products() {
   const visibleProducts = showAll ? productData : productData.slice(0, 4);
 
   return (
-    <section className="py-12 sm:px-10 px-6">
+    <section className="py-14 sm:px-10 px-6">
       <h2 className="text-[#125C3A] text-2xl sm:text-3xl font-bold text-center mb-8">
        TOP SELLING PRODUCTS
       </h2>

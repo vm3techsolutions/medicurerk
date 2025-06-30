@@ -16,7 +16,7 @@ export default function HomeBanner() {
       />
 
       {/* Text Overlay at Bottom */}
-      <div className="absolute inset-0 flex flex-col justify-end items-center text-center text-white -mb-3">
+      <div className="absolute inset-0 flex flex-col justify-end items-center text-center text-white -mb-1">
         <h1 className="text-2xl md:text-7xl font-bold ">
           SCIENCE FOR BETTER HEALING
         </h1>

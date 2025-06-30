@@ -13,7 +13,7 @@ export default function TestimonialCarousel() {
 
   useEffect(() => {
     const fetchData = async () => {
-      const res = await fetch("/data/OurProducts.json");
+      const res = await fetch("/data/home/OurProducts.json");
       const data = await res.json();
       setTestimonials(data);
     };
@@ -22,7 +22,7 @@ export default function TestimonialCarousel() {
   }, []);
 
   return (
-    <div className="py-10 px-6 sm:px-10 bg-[#EDE6DB] rounded-3xl relative">
+    <div className="py-14 px-6 sm:px-10 bg-[#EDE6DB] rounded-3xl relative">
       {/* Centered Title */}
       <h2 className="text-[#125C3A] text-2xl sm:text-3xl font-bold text-center mb-8">
         OUR PRODUCTS
@@ -63,7 +63,7 @@ export default function TestimonialCarousel() {
               </div>
             </div>
             <h3 className="text-lg font-bold text-[#191818] text-center mb-4">
-              {item.title} &gt;&gt;
+              {item.title}
             </h3>
           </SwiperSlide>
         ))}

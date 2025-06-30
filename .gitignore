@@ -15,6 +15,8 @@ client/.cache/
 client/.vercel/
 client/.next-static/
 client/.next-cache/
+node_modules/
+
 
 # === Common files ===
 *.log
@@ -54,3 +56,10 @@ logs/
 docker-compose.override.yml
 docker-compose.dev.yml
 .dockerignore
+
+
+# === Node / Node Backend (Server) ===
+
+server/node_modules/
+server/.env
+server/GoogleSheetKey.json

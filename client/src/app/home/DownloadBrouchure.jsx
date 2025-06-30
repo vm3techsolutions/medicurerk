@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function BrochureBanner() {
   return (
-    <div className="py-10 relative">
+    <div className="py-14 relative">
      {/* Book Images Above Green Box */}
 <div className="absolute right-10 z-20 hidden md:flex space-x-[-30px]">
   <div className="relative w-[150px] h-[200px] rotate-[-15deg]">
@@ -30,9 +30,17 @@ export default function BrochureBanner() {
           <h2 className="text-white text-3xl md:text-4xl font-bold mb-4">
             DOWNLOAD OUR PRODUCTS BROCHURE
           </h2>
-          <button className="bg-[#E9C46A] text-[#191818] font-bold px-4 py-2 rounded-3xl shadow-md sm:mt-5 sm:ml-60">
-            Download Brochure
-          </button>
+         <a
+  href="/assets/header/Brochure pdf.pdf"
+  download
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <button className="bg-[#E9C46A] text-[#191818] font-bold px-4 py-2 rounded-3xl shadow-md sm:mt-5 sm:ml-60">
+    Download Brochure
+  </button>
+</a>
+
         </div>
       </div>
     </div>

@@ -10,23 +10,23 @@ __turbopack_context__.s({
 });
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-client] (ecmascript)");
 ;
 var _s = __turbopack_context__.k.signature();
 'use client';
-;
 ;
 const BlogRoom = ()=>{
     _s();
     const [blogs, setBlogs] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])([]);
     const [currentIndex, setCurrentIndex] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(0);
-    const slideRef = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"])(null);
     (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"])({
         "BlogRoom.useEffect": ()=>{
-            fetch('/data/BlogRoom.json').then({
+            fetch('/data/home/BlogRoom.json').then({
                 "BlogRoom.useEffect": (res)=>res.json()
             }["BlogRoom.useEffect"]).then({
-                "BlogRoom.useEffect": (data)=>setBlogs(data)
+                "BlogRoom.useEffect": (data)=>{
+                    setBlogs(data);
+                    setCurrentIndex(0); // Ensure it starts with the first item
+                }
             }["BlogRoom.useEffect"]);
         }
     }["BlogRoom.useEffect"], []);
@@ -38,9 +38,9 @@ const BlogRoom = ()=>{
     };
     const currentBlog = blogs[currentIndex];
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "py-10",
+        className: "py-14",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "w-full bg-[#E9C46A] bg-opacity-75 px-6 sm:px-16 py-6 shadow-lg flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4",
+            className: "w-full bg-[#E9C46A] bg-opacity-75 px-6 sm:px-16 py-6 shadow-lg flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 h-[25vh]",
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "text-center sm:text-left",
@@ -49,91 +49,96 @@ const BlogRoom = ()=>{
                         children: "Blog Room"
                     }, void 0, false, {
                         fileName: "[project]/src/app/home/BlogRoom.jsx",
-                        lineNumber: 32,
+                        lineNumber: 34,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/app/home/BlogRoom.jsx",
-                    lineNumber: 31,
+                    lineNumber: 33,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     onClick: prevSlide,
-                    className: "hidden sm:flex items-center justify-center text-white text-6xl ml-5 cursor-pointer transition",
+                    className: "hidden sm:flex items-center justify-center text-white text-4xl ml-5 cursor-pointer transition",
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                         className: "font-bold",
                         children: "<"
                     }, void 0, false, {
                         fileName: "[project]/src/app/home/BlogRoom.jsx",
-                        lineNumber: 39,
+                        lineNumber: 41,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/app/home/BlogRoom.jsx",
-                    lineNumber: 38,
+                    lineNumber: 40,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "flex-1 text-center sm:text-left sm:px-5",
-                    children: currentBlog && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
-                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "text-[#191818] text-sm sm:text-xl font-semibold leading-snug mb-2",
-                            children: currentBlog.description
-                        }, void 0, false, {
-                            fileName: "[project]/src/app/home/BlogRoom.jsx",
-                            lineNumber: 46,
-                            columnNumber: 15
-                        }, this)
-                    }, void 0, false)
+                    children: currentBlog ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                        className: "text-[#191818] text-sm sm:text-xl font-semibold leading-snug mb-2",
+                        children: currentBlog.description
+                    }, void 0, false, {
+                        fileName: "[project]/src/app/home/BlogRoom.jsx",
+                        lineNumber: 47,
+                        columnNumber: 13
+                    }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                        className: "text-gray-700 text-sm",
+                        children: "Loading blog..."
+                    }, void 0, false, {
+                        fileName: "[project]/src/app/home/BlogRoom.jsx",
+                        lineNumber: 51,
+                        columnNumber: 13
+                    }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/app/home/BlogRoom.jsx",
-                    lineNumber: 43,
+                    lineNumber: 45,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "text-center sm:text-left sm:mr-20",
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                        className: "bg-[#125C3A] text-white font-bold py-2 px-5 rounded-full shadow-md hover:bg-[#0e4c2f] transition",
+                        className: "bg-[#125C3A] text-white font-bold py-3 px-7 rounded-full shadow-md hover:bg-[#0e4c2f] transition",
                         children: "Read More"
                     }, void 0, false, {
                         fileName: "[project]/src/app/home/BlogRoom.jsx",
-                        lineNumber: 56,
+                        lineNumber: 57,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/app/home/BlogRoom.jsx",
-                    lineNumber: 55,
+                    lineNumber: 56,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     onClick: nextSlide,
-                    className: "hidden sm:flex items-center justify-center text-white text-6xl cursor-pointer transition mr-5",
+                    className: "hidden sm:flex items-center justify-center text-white text-4xl cursor-pointer transition mr-5",
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                         className: "font-bold",
                         children: ">"
                     }, void 0, false, {
                         fileName: "[project]/src/app/home/BlogRoom.jsx",
-                        lineNumber: 63,
+                        lineNumber: 64,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/app/home/BlogRoom.jsx",
-                    lineNumber: 62,
+                    lineNumber: 63,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/app/home/BlogRoom.jsx",
-            lineNumber: 29,
+            lineNumber: 30,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/home/BlogRoom.jsx",
-        lineNumber: 28,
+        lineNumber: 29,
         columnNumber: 5
     }, this);
 };
-_s(BlogRoom, "iDHK/YgtsVvaNgP5jx1xaTPvFjw=");
+_s(BlogRoom, "H+B1D7H3VQ0boH/b3QFoZeE1k5A=");
 _c = BlogRoom;
 const __TURBOPACK__default__export__ = BlogRoom;
 var _c;
@@ -172,7 +177,7 @@ function HomeBanner() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "absolute inset-0 flex flex-col justify-end items-center text-center text-white -mb-3",
+                className: "absolute inset-0 flex flex-col justify-end items-center text-center text-white -mb-1",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                     className: "text-2xl md:text-7xl font-bold ",
                     children: "SCIENCE FOR BETTER HEALING"
@@ -235,7 +240,7 @@ function TestimonialCarousel() {
         "TestimonialCarousel.useEffect": ()=>{
             const fetchData = {
                 "TestimonialCarousel.useEffect.fetchData": async ()=>{
-                    const res = await fetch("/data/OurProducts.json");
+                    const res = await fetch("/data/home/OurProducts.json");
                     const data = await res.json();
                     setTestimonials(data);
                 }
@@ -244,7 +249,7 @@ function TestimonialCarousel() {
         }
     }["TestimonialCarousel.useEffect"], []);
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "jsx-8eafc2f3aa700fdf" + " " + "py-10 px-6 sm:px-10 bg-[#EDE6DB] rounded-3xl relative",
+        className: "jsx-8eafc2f3aa700fdf" + " " + "py-14 px-6 sm:px-10 bg-[#EDE6DB] rounded-3xl relative",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                 className: "jsx-8eafc2f3aa700fdf" + " " + "text-[#125C3A] text-2xl sm:text-3xl font-bold text-center mb-8",
@@ -313,11 +318,8 @@ function TestimonialCarousel() {
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                 className: "jsx-8eafc2f3aa700fdf" + " " + "text-lg font-bold text-[#191818] text-center mb-4",
-                                children: [
-                                    item.title,
-                                    " >>"
-                                ]
-                            }, void 0, true, {
+                                children: item.title
+                            }, void 0, false, {
                                 fileName: "[project]/src/app/home/OurProducts.jsx",
                                 lineNumber: 65,
                                 columnNumber: 13
@@ -376,7 +378,7 @@ function Products() {
         "Products.useEffect": ()=>{
             const fetchData = {
                 "Products.useEffect.fetchData": async ()=>{
-                    const res = await fetch("/data/TopSellingProducts.json");
+                    const res = await fetch("/data/home/TopSellingProducts.json");
                     const data = await res.json();
                     setProductData(data);
                 }
@@ -386,7 +388,7 @@ function Products() {
     }["Products.useEffect"], []);
     const visibleProducts = showAll ? productData : productData.slice(0, 4);
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-        className: "py-12 sm:px-10 px-6",
+        className: "py-14 sm:px-10 px-6",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                 className: "text-[#125C3A] text-2xl sm:text-3xl font-bold text-center mb-8",
@@ -568,7 +570,7 @@ function TestimonialCarousel() {
     ]);
     const totalDots = Math.ceil(testimonials.length / 2);
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "relative w-full mx-auto px-6 py-10",
+        className: "relative w-full mx-auto px-6 py-14",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                 className: "text-center text-2xl sm:text-3xl font-bold text-[#125C3A] mb-8",
