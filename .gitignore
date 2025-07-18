@@ -62,4 +62,4 @@ docker-compose.dev.yml
 
 server/node_modules/
 server/.env
-server/SapGoogleSheetForm.json
+server/GoogleSheetKey.json
