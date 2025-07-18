@@ -45,7 +45,7 @@ export default function ContactSection() {
         const result = await response.json();
 
         if (result.result === 'Success') {
-          alert('Message sent and saved to Google Sheet!');
+          alert('Message sent!');
           setFormData({
             name: '',
             email: '',
