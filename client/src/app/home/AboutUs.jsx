@@ -19,7 +19,7 @@ export default function AboutUs() {
         Our formulations are rooted in clinical science and crafted with maternal sensitivity, prioritizing safety, comfort, and efficacy. We collaborate with leading manufacturing partners like Akums, Hetero, and Synokem to ensure world-class quality while maintaining accessibility and affordability.
         </p>
 <Link href="/aboutUs" passHref>
-  <button className="bg-[#E9C46A] hover:bg-yellow-500 text-black font-semibold px-6 py-2 rounded-3xl shadow-md transition">
+  <button className="bg-[#E9C46A] hover:bg-[#125C3A] hover:text-white text-black font-semibold px-6 py-2 rounded-3xl shadow-md transition">
     Know More
   </button>
 </Link>

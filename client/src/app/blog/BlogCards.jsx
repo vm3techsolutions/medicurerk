@@ -50,7 +50,7 @@ export default function BlogGrid() {
 
             {/* Read More Button */}
             <Link href={`/blog/${blog.id}`}>
-              <button className="bg-yellow-400 text-black font-semibold px-4 py-2 rounded-full hover:bg-yellow-500 transition">
+              <button className="bg-[#E9C46A] hover:bg-[#125C3A] hover:text-white text-black font-semibold px-6 py-2 rounded-3xl shadow-md transition">
                 Read More
               </button>
             </Link>

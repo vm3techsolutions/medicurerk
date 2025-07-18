@@ -45,7 +45,7 @@ export default function Header() {
             <Link
               href="/brochure.pdf"
               download
-              className="flex items-center gap-2 bg-[#E9C46A] text-[#191818] font-bold px-4 py-2 rounded-3xl transition"
+              className="flex items-center gap-2 bg-[#E9C46A] text-[#191818] hover:bg-[#125C3A] hover:text-white font-bold px-4 py-2 rounded-3xl transition"
             >
               <Download size={18} />
               Download Brochure
@@ -82,7 +82,7 @@ export default function Header() {
   target="_blank"
   rel="noopener noreferrer"
 >
-  <button className="bg-[#E9C46A] text-[#191818] font-bold px-4 py-2 rounded-3xl shadow-md sm:mt-5 sm:ml-60">
+  <button className="bg-[#E9C46A] text-[#191818] hover:bg-[#125C3A] hover:text-white font-bold px-4 py-2 rounded-3xl shadow-md sm:mt-5 sm:ml-60">
     Download Brochure
   </button>
 </a>

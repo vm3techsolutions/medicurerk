@@ -31,15 +31,16 @@ export default function StatsSection() {
       <div className="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4  text-center">
         {stats.map((stat, index) => (
           <div key={index} className="flex flex-col items-center gap-3">
-            <div className="border-2 border-[#E9C46A] rounded-full p-4 h-[20vh] w-[20vh]">
-              <Image
-                src={stat.imgSrc}
-                alt={stat.label}
-                width={80}
-                height={80}
-                className="object-contain"
-              />
-            </div>
+            <div className="border-2 border-[#E9C46A] rounded-full h-[20vh] w-[20vh] flex items-center justify-center">
+  <Image
+    src={stat.imgSrc}
+    alt={stat.label}
+    width={80}
+    height={80}
+    className="object-contain"
+  />
+</div>
+
             <h3 className="text-3xl font-bold text-[#191818]">{stat.value}</h3>
             <p className="text-[#191818] font-bold">{stat.label}</p>
           </div>

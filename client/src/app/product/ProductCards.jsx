@@ -63,7 +63,7 @@ export default function ProductCards() {
               <div className="mt-auto">
                 <button
                   onClick={() => openModal(product)}
-                  className="bg-[#E9C46A] text-black font-semibold px-7 py-2 rounded-3xl transition text-xla"
+                  className="bg-[#E9C46A] hover:bg-[#125C3A] hover:text-white text-black font-semibold px-6 py-2 rounded-3xl shadow-md transition"
                 >
                   Read More
                 </button>

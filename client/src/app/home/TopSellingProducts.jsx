@@ -53,7 +53,7 @@ export default function Products() {
         <div className="text-center mt-10">
           <button
             onClick={() => setShowAll(true)}
-            className="bg-[#E9C46A] text-[#191818] px-6 py-2 rounded-full hover:text-white hover:bg-[#0e4c2f] transition"
+            className="bg-[#E9C46A] hover:bg-[#125C3A] hover:text-white text-black font-semibold px-6 py-2 rounded-3xl shadow-md transition"
           >
             View More Products
           </button>

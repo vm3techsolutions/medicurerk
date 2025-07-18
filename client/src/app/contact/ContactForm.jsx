@@ -161,7 +161,7 @@ export default function ContactSection() {
         <div className="flex justify-center">
           <button
             type="submit"
-            className="bg-[#E9C46A] text-[#191818] font-bold py-2 px-6 rounded-full"
+            className="bg-[#E9C46A] hover:bg-[#125C3A] hover:text-white text-black font-semibold px-6 py-2 rounded-3xl shadow-md transition"
             disabled={loading}
           >
             {loading ? 'Sending...' : 'Submit'}
