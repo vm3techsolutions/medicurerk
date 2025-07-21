@@ -1,11 +1,13 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { useRouter } from "next/navigation"; // ← Import router
 import Image from "next/image";
 
 export default function Products() {
   const [productData, setProductData] = useState([]);
   const [showAll, setShowAll] = useState(false);
+  const router = useRouter(); // ← Initialize router
 
   useEffect(() => {
     const fetchData = async () => {
@@ -19,10 +21,14 @@ export default function Products() {
 
   const visibleProducts = showAll ? productData : productData.slice(0, 4);
 
+  const handleViewMoreClick = () => {
+    router.push("/product"); // ← Redirect to /product page
+  };
+
   return (
     <section className="py-14 sm:px-10 px-6">
       <h2 className="text-[#125C3A] text-2xl sm:text-3xl font-bold text-center mb-8">
-       TOP SELLING PRODUCTS
+        TOP SELLING PRODUCTS
       </h2>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -31,7 +37,7 @@ export default function Products() {
             key={product.id}
             className="bg-white rounded-xl shadow-md p-4 hover:shadow-lg transition border border-[#EDE6DB]"
           >
-            <div className="relative w-full h-48  rounded overflow-hidden">
+            <div className="relative w-full h-48 rounded overflow-hidden">
               <Image
                 src={product.img}
                 alt={product.title}
@@ -52,7 +58,7 @@ export default function Products() {
       {!showAll && (
         <div className="text-center mt-10">
           <button
-            onClick={() => setShowAll(true)}
+            onClick={handleViewMoreClick}
             className="bg-[#E9C46A] hover:bg-[#125C3A] hover:text-white text-black font-semibold px-6 py-2 rounded-3xl shadow-md transition"
           >
             View More Products

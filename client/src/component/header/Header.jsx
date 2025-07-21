@@ -26,16 +26,16 @@ export default function Header() {
 
           {/* Desktop Navigation */}
           <nav className="absolute left-1/2 transform -translate-x-1/2 hidden md:flex space-x-12 text-xl -ml-10">
-            <Link href="/aboutUs" className="text-[#191818] font-bold transition">
+            <Link href="/aboutUs" className="text-[#191818] hover:text-[#e9c46a] font-bold transition">
               About Us
             </Link>
-            <Link href="/product" className="text-[#191818] font-bold transition">
+            <Link href="/product" className="text-[#191818] hover:text-[#e9c46a] font-bold transition">
               Product
             </Link>
-            <Link href="/blog" className="text-[#191818] font-bold transition">
+            <Link href="/blog" className="text-[#191818] hover:text-[#e9c46a] font-bold transition">
               Blog
             </Link>
-            <Link href="/contact" className="text-[#191818] font-bold transition">
+            <Link href="/contact" className="text-[#191818] hover:text-[#e9c46a] font-bold transition">
               Contact Us
             </Link>
           </nav>
@@ -64,16 +64,16 @@ export default function Header() {
       {/* Mobile Menu */}
       {isMobileMenuOpen && (
         <div className="md:hidden bg-white shadow-md px-6 py-4 space-y-4 text-center text-lg font-semibold">
-          <Link href="/aboutUs" className="block text-[#191818]" onClick={toggleMobileMenu}>
+          <Link href="/aboutUs" className="block text-[#191818] hover:text-[#e9c46a]" onClick={toggleMobileMenu}>
             About Us
           </Link>
-          <Link href="/product" className="block text-[#191818]" onClick={toggleMobileMenu}>
+          <Link href="/product" className="block text-[#191818] hover:text-[#e9c46a]" onClick={toggleMobileMenu}>
             Product
           </Link>
-          <Link href="/blog" className="block text-[#191818]" onClick={toggleMobileMenu}>
+          <Link href="/blog" className="block text-[#191818] hover:text-[#e9c46a]" onClick={toggleMobileMenu}>
             Blog
           </Link>
-          <Link href="/contact" className="block text-[#191818]" onClick={toggleMobileMenu}>
+          <Link href="/contact" className="block text-[#191818] hover:text-[#e9c46a]" onClick={toggleMobileMenu}>
             Contact Us
           </Link>
           <a

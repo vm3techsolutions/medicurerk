@@ -1,58 +1,30 @@
 [
   {
     "id": 1,
-    "img": "/assets/home/TopSellingProduct1.png",
+    "img": "/assets/product/ezy-period.jpg",
     "title": " EZY- PERIOD",
     "qnt": "200 ml (Syrup)",
     "desc": "For Effective Management of Leucorrhoea & UTI with High Palatability In Competitive"
   },
   {
     "id": 2,
-    "img": "/assets/home/TopSellingProduct2.png",
+    "img": "/assets/product/medi-hemenic.jpg",
     "title": " MEDI HEMINIC",
     "qnt": "10 x 1 x 10 (Tablets)",
     "desc": "Ferric Pyrophosphate (Liposomal)12mg+Vitamin C 80mg + Folic Acid 146.47mcg ....."
   },
   {
     "id": 3,
-    "img": "/assets/home/TopSellingProduct3.png",
+    "img": "/assets/product/maxDigestio.jpg",
     "title": " MAX DIGESTIO",
     "qnt": "200 ml (Syrup)",
     "desc": "Alpha Amylase 50mg, Alpha-Galactosidase 200mg, Lactase7mg, Protease 25mg,...."
   },
   {
     "id": 4,
-    "img": "/assets/home/TopSellingProduct4.png",
+    "img": "/assets/product/ova-thrive.jpg",
     "title": "OVA-THRIVE ",
     "qnt": "10 (Sachets)",
     "desc": "Myo-Inositol 2gm+D Chiro Inositol 50 mg+Melatonin 2mg+Alpha Lipoic Acid 400mg"
-  },
-  {
-    "id": 5,
-    "img": "/assets/home/TopSellingProduct1.png",
-    "title": "Bluetooth Speaker",
-    "qnt": "aaaaa",
-    "desc": "Portable speaker with deep bass"
-  },
-  {
-    "id": 6,
-    "img": "/assets/home/TopSellingProduct2.png",
-    "title": "Fitness Band",
-    "qnt": "bbbb",
-    "desc": "Track steps, heart rate, and more"
-  },
-  {
-    "id": 7,
-    "img": "/assets/home/TopSellingProduct3.png",
-    "title": "Sneakers",
-    "qnt": "cccc",
-    "desc": "Comfortable and trendy for all day wear"
-  },
-  {
-    "id": 8,
-    "img": "/assets/home/TopSellingProduct4.png",
-    "title": "Sunglasses",
-    "qnt": "dddd",
-    "desc": "UV protection aviator-style shades"
   }
 ]
