@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useEffect, useState } from 'react';
+import Link from "next/link";
 
 const BlogRoom = () => {
   const [blogs, setBlogs] = useState([]);
@@ -53,11 +54,13 @@ const BlogRoom = () => {
         </div>
 
         {/* Button */}
-        <div className="text-center sm:text-left sm:mr-20">
-          <button className="bg-[#125C3A] text-white font-bold py-3 px-7 rounded-full shadow-md hover:bg-[#0e4c2f] transition">
-            Read More
-          </button>
-        </div>
+       <div className="text-center sm:text-left sm:mr-20">
+  <Link href="/blog">
+    <button className="bg-[#125C3A] text-white font-bold py-3 px-7 rounded-full shadow-md hover:bg-[#0e4c2f] transition">
+      Read More
+    </button>
+  </Link>
+</div>
 
         {/* Right Arrow */}
         <div onClick={nextSlide} className="hidden sm:flex items-center justify-center text-white text-4xl cursor-pointer transition mr-5">

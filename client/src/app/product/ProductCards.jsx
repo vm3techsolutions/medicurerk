@@ -37,6 +37,7 @@ export default function ProductCards() {
         {products.map((product) => (
           <div
             key={product.id}
+            onClick={() => openModal(product)}
             className="bg-white rounded-xl shadow-md overflow-hidden border border-[#EDE6DB] hover:shadow-xl transition duration-300 flex flex-col"
           >
             <div className="relative w-full h-[250px] bg-white flex items-center justify-center">

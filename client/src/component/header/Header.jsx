@@ -43,7 +43,7 @@ export default function Header() {
           {/* Download button on the right (desktop) */}
           <div className="hidden md:flex">
             <Link
-              href="/brochure.pdf"
+              href="/assets/header/Brochure pdf.pdf"
               download
               className="flex items-center gap-2 bg-[#E9C46A] text-[#191818] hover:bg-[#125C3A] hover:text-white font-bold px-4 py-2 rounded-3xl transition"
             >

@@ -18,7 +18,7 @@ export default function ContactBanner() {
         </div>
 
         {/* Button Section */}
-        <Link href="/contact">
+        <Link href="/contact" className='sm:pr-20'>
           <button className="bg-[#125C3A] text-white sm:px-7 sm:py-3 py-1 px-3 rounded-full text-xl sm:mr-10 font-bold hover:bg-[#125C3A]/90 transition">
             Contact Us
           </button>
