@@ -2,10 +2,17 @@
 
  {
   "id": 1,
-  "title": "EZY– PERIOD",
-  "quantity": "200 ml (Syrup)",
-  "desc": "For Effective Management of Leucorrhoea & UTI with High Palatability In Competitive",
-  "image": "/assets/product/ezy-period.jpg",
+    "title": "EZY– PERIOD",
+    "quantity": "200 ml (Syrup)",
+    "desc": "For Effective Management of Leucorrhoea & UTI...",
+    "image": "/assets/product/ezy-period.jpg",
+    "images": [
+      "/assets/product/ezy-period.jpg",
+      "/assets/product/EZY– PERIOD1.jpg",
+      "assets/product/EZY– PERIOD2.jpg",
+      "assets/product/EZY– PERIOD3.jpg",
+      "assets/product/EZY– PERIOD4.jpg"
+    ],
   "link": "/product/ezy-period",
   "details": [
      {
@@ -45,6 +52,10 @@
     "quantity": "10 x 1 x 10 (Tablets)",
     "desc": "Ferric Pyrophosphate (Liposomal) 12mg Vitamin C 80ng-Fulic Acid 146.47ncg Cyanocobalasin 2.2 mg Suy Lecithin 30mg",
     "image": "/assets/product/medi-hemenic.jpg",
+     "images": [
+      "/assets/product/medi-hemenic.jpg",
+      "/assets/product/MEDI-HEMINIC.jpg"
+    ],
     "link": "/product/medi-heminic",
   "details": [
     {
@@ -75,6 +86,13 @@
     "quantity": "200 ml (Syrup)",
     "desc": "Alphe Amylase 50mg Alpha-Belectosidase 200mg Lectase 7mg, Protease 25mg Papain 25mg, Blucamylese 5mg. Calulose 6.25mg. Lipase 2.5mg, Caraway Of 125mcg. Cardamom Dil 125mcg. Cinnamon Oil 125mcg & Ginger Extract 125mcg;",
     "image": "/assets/product/maxDigestio.jpg",
+     "images": [
+      "/assets/product/maxDigestio.jpg",
+      "/assets/product/MAX DIGESTIO1.jpg",
+      "/assets/product/MAX DIGESTIO2.jpg",
+      "/assets/product/MAX DIGESTIO3.jpg",
+      "/assets/product/MAX DIGESTIO4.jpg"
+    ],
     "link": "/product/max-digestio",
   "details": [
     {
@@ -143,6 +161,10 @@
     "quantity": "10 (Sachets)",
     "desc": "Myo-Inositol 2gm+D Chiro Inositol 50 mg+Melatonin 2mg+Alpha Lipoic Acid 400mg",
     "image": "/assets/product/ova-thrive.jpg",
+     "images": [
+      "/assets/product/ova-thrive.jpg",
+      "/assets/product/OVA-THRIVE-1.jpg"
+    ],
     "link": "/product/ova-thrive",
   "details": [
     {
@@ -164,6 +186,10 @@
     "quantity": "10 x 1 x 10 (Softgel Capsules)",
     "desc": " L Carnitine L-Tartrate, Withania Somnifera, Co-Enzyme Q10, Omega-3 Fatty Acid, Zinc Oxide, Lycopene, Folic Acid, Selenium, Vitamin D3, Cyanocobalamin Softgel Capsules; Improves Quality, Quantity & Performance of Sperm",
     "image": "/assets/product/spermify-pro.jpg",
+     "images": [
+      "/assets/product/spermify-pro.jpg",
+      "/assets/product/SPERMIFY-PRO-1.jpg"
+    ],
     "link": "/product/spermify-pro",
   "details": [
     {
@@ -188,6 +214,10 @@
     "quantity": "Sachets",
     "desc": " Cronberry Extme 200ng+D-Mannose 300mg+Potassium Magnesian Chote 978mg Sochen",
     "image": "/assets/product/uro-EZ.jpg",
+     "images": [
+      "/assets/product/uro-EZ.jpg",
+      "/assets/product/URO-EZ-1.jpg"
+    ],
     "link": "/product/uro-ez",
   "details": [
     {
@@ -208,6 +238,10 @@
     "quantity": "10 x 10 (Tablets)",
     "desc": "Calcium Citrate 500mg+Calcitriol 0.25mcg+Zinc 7.5mg Magnesium 40mg Tablets",
     "image": "/assets/product/dynacoral.jpg",
+     "images": [
+      "/assets/product/dynacoral.jpg",
+      "/assets/product/DYNACORAL-1.jpg"
+    ],
     "link": "/product/dynacoral",
   "details": [
     {
@@ -230,6 +264,10 @@
     "quantity": "10 x 1 x 10 (Tablets)",
     "desc": "Dydrogesterone 10mg Tablets",
     "image": "/assets/product/gynevolve.jpg",
+     "images": [
+      "/assets/product/gynevolve.jpg",
+      "/assets/product/GYNEVOLVE1.jpg"
+    ],
     "link": "/product/gynevolve",
   "details": [
     {
@@ -252,6 +290,10 @@
     "quantity": "Tablets",
     "desc": "In mild to moderate Diabetes",
     "image": "/assets/product/metparkG-0.5.jpg",
+     "images": [
+      "/assets/product/metparkG-0.5.jp",
+      "/assets/product/METAPARK-G-0.5.jpg"
+    ],
     "link": "/product/metpark-g-0-5",
   "details": [
     {
@@ -273,6 +315,10 @@
     "quantity": "Tablets",
     "desc": "In mild to moderate Diabetes",
     "image": "/assets/product/metparkG-2.jpg",
+     "images": [
+      "/assets/product/metparkG-2.jpg",
+      "/assets/product/METAPARK-G2.jpg"
+    ],
     "link": "/product/metpark-g2-forte",
   "details": [
     {
@@ -295,6 +341,10 @@
     "quantity": "Tablets",
     "desc": " In Management of type 2 Diabetes; Glimepiride 3 mg & Metformin 1000 mg (58) ",
     "image": "/assets/product/metparkG-3.jpg",
+     "images": [
+      "/assets/product/metparkG-3.jpg",
+      "/assets/product/METAPARK-G3.jpg"
+    ],
     "link": "/product/metpark-g3-forte",
   "details": [
     {
@@ -316,6 +366,10 @@
     "quantity": "Tablets",
     "desc": "A one choice for the Diabetic Patients",
     "image": "/assets/product/gliptinpark-M.jpg",
+     "images": [
+      "/assets/product/gliptinpark-M.jpg",
+      "/assets/product/GLIPTINPARK-M-1.jpg"
+    ],
     "link": "/product/gliptinpark-m",
   "details": [
     {
@@ -336,6 +390,10 @@
     "quantity": "Tablets",
     "desc": "Type 2 Diabetes",
     "image": "/assets/product/gliptinpark.jpg",
+     "images": [
+      "/assets/product/gliptinpark.jpg",
+      "/assets/product/GLIPTINPARK-1.jpg"
+    ],
     "link": "/product/gliptinpark",
   "details": [
     {
@@ -361,6 +419,9 @@
     "quantity": "Tablets",
     "desc": "In difficult to treat Hypertensive patients",
     "image": "/assets/product/Card14.png",
+     "images": [
+      "/assets/product/Card14.png"
+    ],
     "link": "/product/twinpark-t",
   "details": [
     {
@@ -387,6 +448,10 @@
     "quantity": "Tablets",
     "desc": "In hypertensive conditions",
     "image": "/assets/product/telaparktrio.jpg",
+     "images": [
+      "/assets/product/telaparktrio.jpg",
+      "/assets/product/TELEPARK-TRIO.jpg"
+    ],
     "link": "/product/telpark-trio",
   "details": [
     {
@@ -409,6 +474,10 @@
     "quantity": "10 (Sachets)",
     "desc": "The right approach in neuropathic pain",
     "image": "/assets/product/curonuropark.jpg",
+     "images": [
+      "/assets/product/curonuropark.jpg",
+      "/assets/product/CURONUROPARK-B.jpg"
+    ],
     "link": "/product/curonuropark-b",
   "details": [
     {
@@ -430,6 +499,10 @@
     "quantity": "Capsules",
     "desc": "The right option for various Acid - peptic Conditions",
     "image": "/assets/product/rangaDSR.jpg",
+     "images": [
+      "/assets/product/rangaDSR.jpg",
+      "/assets/product/RANGA-DSR.jpg"
+    ],
     "link": "/product/clinimag-z",
   "details": [
     {
