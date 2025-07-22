@@ -2,41 +2,46 @@
   {
     "id": 1,
     "title": "Obstetrics",
-    "img": "/assets/home/OurProduct1.png"
+    "img": "/assets/home/Obstetrics.png"
   },
   {
     "id": 2,
-    "title": "Andrology",
-    "img": "/assets/home/OurProduct2.png"
+    "title": "Gastroenterology",
+    "img": "/assets/home/Gastroenterology.png"
   },
   {
     "id": 3,
-    "title": "Urology",
-    "img": "/assets/home/OurProduct3.png"
+    "title": "Gynaecology",
+    "img": "/assets/home/Gynaecology.png"
   },
   {
     "id": 4,
-    "title": "Osteology",
-    "img": "/assets/home/OurProduct4.png"
+    "title": "Andrology",
+    "img": "/assets/home/Andrology.png"
   },
   {
     "id": 5,
-    "title": "Neurology",
-    "img": "/assets/home/OurProduct4.png"
+    "title": "Urology",
+    "img": "/assets/home/Urology.png"
   },
   {
     "id": 6,
-    "title": "Cardiology",
-    "img": "/assets/home/OurProduct4.png"
+    "title": "Osteology",
+    "img": "/assets/home/Osteology.png"
   },
   {
     "id": 7,
-    "title": "Dermatology",
-    "img": "/assets/home/OurProduct4.png"
+    "title": "Diabetology",
+    "img": "/assets/home/Diabetiology.png"
   },
   {
     "id": 8,
-    "title": "Endocrinology",
-    "img": "/assets/home/OurProduct4.png"
+    "title": "Cardiology",
+    "img": "/assets/home/Cardiology.png"
+  },
+   {
+    "id": 8,
+    "title": "Neurology",
+    "img": "/assets/home/Neurology.png"
   }
 ]
