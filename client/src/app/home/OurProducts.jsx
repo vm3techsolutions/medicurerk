@@ -46,13 +46,9 @@ export default function TestimonialCarousel() {
         {testimonials.map((item, index) => (
           <SwiperSlide key={item.id}>
             <div
-              className={`rounded-xl p-4 shadow-md text-center h-full transition duration-300 my-5 border-[#EDE6DB] ${
-                index % 2 === 0
-                  ? "bg-gradient-to-b from-green-100 to-green-700"
-                  : "bg-gradient-to-b from-yellow-100 to-yellow-600"
-              }`}
+              className={`rounded-xl  shadow-md text-center h-full transition duration-300 my-5 border-[#EDE6DB] bg-white`}
             >
-              <div className="w-full h-40 relative mb-4">
+              <div className="w-full h-56 relative mb-4">
                 <Image
                   src={item.img}
                   alt={item.title}
