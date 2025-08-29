@@ -73,7 +73,7 @@ export default function TestimonialCarousel() {
       {/* Navigation Arrows */}
       <button
         onClick={() => sliderInstanceRef.current?.prev()}
-        className="absolute left-2 top-1/2 transform -translate-y-1/2 text-5xl text-[#191818] p-2 rounded-full z-10"
+        className="absolute  top-1/2 transform -translate-y-1/2 text-5xl text-[#191818] p-2 rounded-full z-10"
       >
         ‹
       </button>

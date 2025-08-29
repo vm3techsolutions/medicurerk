@@ -58,25 +58,36 @@ export default function Footer() {
   <ul className="space-y-4 text-[#191818]">
     <li className="flex items-center gap-2">
       <FiPhone className="text-[#125C3A]"/>
-      <a href="tel:+91111111111" className="hover:underline">
-        +91- 123456789
+      <a href="tel:+91 +91 9876543210" className="hover:underline">
+       +91 9876543210
       </a>
     </li>
     <li className="flex items-center gap-2">
       <FiMail className="text-[#125C3A]"/>
-      <a href="mailto:info@ekmedical.com" className="hover:underline">
-        info@rkmedicure.com
-      </a>
+      <a href="mailto:admin@rkmedicurepharm.com " className="hover:underline">
+         admin@rkmedicurepharm.com 
+      </a> 
+       
     </li>
+
+      <li className="flex items-center gap-2">
+      <FiMail className="text-[#125C3A]"/>
+       <a href="mailto:info@rkmedicure.com " className="hover:underline">
+        info@rkmedicure.com 
+      </a> 
+       
+    </li>
+
     <li className="flex items-center gap-2">
-      <FiMapPin className="text-[#125C3A]"/>
+      <FiMapPin className="text-[#125C3A] text-5xl"/>
       <Link
         href="https://www.google.com/maps/place/VM3+Tech+Solutions+LLP"
         target="_blank"
         rel="noopener noreferrer"
-        className="hover:underline"
+        className=""
       >
-        Pune, Maharashtra
+        RK Medicure Pharma, 168/1, 1st floor, Manganahalli, Ullal basthi, 
+Bangalore-560056, Karnataka, India
       </Link>
     </li>
   </ul>
