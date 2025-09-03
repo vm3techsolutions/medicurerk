@@ -20,10 +20,10 @@ export default function WhyChooseUs() {
               <div className="flex gap-3 items-start">
                 <span className="text-[#E9C46A] font-bold text-5xl">01</span>
                 <div>
-                  <h3 className="font-bold text-base">Problem–Solving Products</h3>
+                  <h3 className="font-bold text-base">Focused Expertise</h3>
                   <p>
-                    We develop need-based, clinically relevant formulations that address real gaps in
-                    female and pediatric healthcare — not just products, but purposeful solutions.
+                    Specializing in key fields: Obstetrics, Gastroenterology, 
+Gynaecology, Andrology, Urology, Diabetology, Cardiology, and Neurology.
                   </p>
                 </div>
               </div>
@@ -34,10 +34,9 @@ export default function WhyChooseUs() {
               <div className="flex gap-3 items-start">
                 <span className="text-[#125C3A] font-bold text-5xl">02</span>
                 <div>
-                  <h3 className="font-bold text-base">Great Patient Compliance</h3>
+                  <h3 className="font-bold text-base">Evidence-Based Solutions</h3>
                   <p>
-                    Our products are designed for ease, comfort, and better adherence — with pleasant
-                    taste profiles, convenient formats, and patient-friendly dosing.
+                   Products grounded in science, backed by trust. 
                   </p>
                 </div>
               </div>
@@ -48,10 +47,9 @@ export default function WhyChooseUs() {
               <div className="flex gap-3 items-start">
                 <span className="text-[#E9C46A] font-bold text-5xl">03</span>
                 <div>
-                  <h3 className="font-bold text-base">Cost–Effective Offerings</h3>
+                  <h3 className="font-bold text-base">Compassion-Driven Care</h3>
                   <p>
-                    We combine affordability with therapeutic value, ensuring access to quality
-                    healthcare without compromising effectiveness or safety.
+                    Putting people before profit. 
                   </p>
                 </div>
               </div>
@@ -62,11 +60,9 @@ export default function WhyChooseUs() {
               <div className="flex gap-3 items-start">
                 <span className="text-[#125C3A] font-bold text-5xl">04</span>
                 <div>
-                  <h3 className="font-bold text-base">High-Quality Standards</h3>
+                  <h3 className="font-bold text-base">Accessible Quality </h3>
                   <p>
-                    Every product is manufactured with stringent quality controls through reputed
-                    facilities like Akums, Hetero, and Synokem — ensuring safety, purity, and consistency
-                    in every dose.
+                     Making advanced healthcare affordable for all.
                   </p>
                 </div>
               </div>

@@ -18,7 +18,7 @@ export default function ReachOut() {
     />
     <p className="text-lg font-semibold text-[#191818]">
       <a href="tel:+91976543210" className="hover:text-[#0E509E]">
-        +91 9876543210
+        +91 0000000000
       </a>
     </p>
   </div>
@@ -37,7 +37,7 @@ export default function ReachOut() {
       </a>
       <br />
       <a href="mailto:info@rkmedicure.com" className="hover:text-[#0E509E]">
-        info@rkmedicure.com
+       Sales: info@rkmedicure.com
       </a>
     </p>
   </div>

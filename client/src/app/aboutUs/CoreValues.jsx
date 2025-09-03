@@ -6,8 +6,12 @@ export default function CoreValues() {
 
         <h2 className="text-center text-2xl sm:text-3xl font-bold text-[#125C3A] mb-4"> CORE VALUES</h2>
       <p className="text-center text-[#191818] font-semibold text-base md:text-lg max-w-3xl mx-auto mb-10">
-        At R K Medicare, CARE isn’t just what we provide — it’s who we are. Each letter reflects a core value
-        that drives our work and defines our commitment to women and children’s health.
+        {/* At R K Medicare, CARE isn’t just what we provide — it’s who we are. Each letter reflects a core value
+        that drives our work and defines our commitment to women and children’s health. */}
+
+        To become the most trusted and impactful healthcare partner in specialized 
+therapeutic care — in India and beyond — by delivering innovative, affordable, and 
+evidence-based solutions that transform lives. 
       </p>
 
       <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
