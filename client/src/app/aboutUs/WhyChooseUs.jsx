@@ -10,8 +10,10 @@ export default function WhyChooseUs() {
           <h2 className="text-[#125C3A] text-xl md:text-3xl font-bold mb-4">WHY CHOOSE US ?</h2>
           
           <p className="text-[#191818] mb-8 ">
-            At R K Medicare, we are committed to delivering healthcare solutions that matter especially in the
-            sensitive areas of female and pediatric care. Here’s what makes us stand out:
+            {/* At R K Medicare, we are committed to delivering healthcare solutions that matter especially in the
+            sensitive areas of female and pediatric care. Here’s what makes us stand out: */}
+
+            At R K Medicare, we are committed to delivering healthcare solutions that matter — especially in the sensitive areas of female and pediatric care. Here’s what makes us stand out:
           </p>
 
           <div className="space-y-8 text-sm text-[#191818] ">
@@ -20,10 +22,12 @@ export default function WhyChooseUs() {
               <div className="flex gap-3 items-start">
                 <span className="text-[#E9C46A] font-bold text-5xl">01</span>
                 <div>
-                  <h3 className="font-bold text-base">Focused Expertise</h3>
+                  <h3 className="font-bold text-base">Problem-Solving Products</h3>
                   <p>
-                    Specializing in key fields: Obstetrics, Gastroenterology, 
-Gynaecology, Andrology, Urology, Diabetology, Cardiology, and Neurology.
+                    {/* Specializing in key fields: Obstetrics, Gastroenterology, 
+Gynaecology, Andrology, Urology, Diabetology, Cardiology, and Neurology. */}
+
+We develop need-based, clinically relevant formulations that address real gaps in female and pediatric healthcare — not just products, but purposeful solutions.
                   </p>
                 </div>
               </div>
@@ -34,9 +38,11 @@ Gynaecology, Andrology, Urology, Diabetology, Cardiology, and Neurology.
               <div className="flex gap-3 items-start">
                 <span className="text-[#125C3A] font-bold text-5xl">02</span>
                 <div>
-                  <h3 className="font-bold text-base">Evidence-Based Solutions</h3>
+                  <h3 className="font-bold text-base">Great Patient Compliance</h3>
                   <p>
-                   Products grounded in science, backed by trust. 
+                   {/* Products grounded in science, backed by trust.  */}
+
+                   Our products are designed for ease, comfort, and better adherence — with pleasant taste profiles, convenient formats, and patient-friendly dosing.
                   </p>
                 </div>
               </div>
@@ -47,9 +53,11 @@ Gynaecology, Andrology, Urology, Diabetology, Cardiology, and Neurology.
               <div className="flex gap-3 items-start">
                 <span className="text-[#E9C46A] font-bold text-5xl">03</span>
                 <div>
-                  <h3 className="font-bold text-base">Compassion-Driven Care</h3>
+                  <h3 className="font-bold text-base">Cost-Effective Offerings</h3>
                   <p>
-                    Putting people before profit. 
+                    {/* Putting people before profit.  */}
+
+                    We combine affordability with therapeutic value, ensuring access to quality healthcare without compromising effectiveness or safety.
                   </p>
                 </div>
               </div>
@@ -60,9 +68,11 @@ Gynaecology, Andrology, Urology, Diabetology, Cardiology, and Neurology.
               <div className="flex gap-3 items-start">
                 <span className="text-[#125C3A] font-bold text-5xl">04</span>
                 <div>
-                  <h3 className="font-bold text-base">Accessible Quality </h3>
+                  <h3 className="font-bold text-base">High-Quality Standards</h3>
                   <p>
-                     Making advanced healthcare affordable for all.
+                     {/* Making advanced healthcare affordable for all. */}
+
+                     Every product is manufactured with stringent quality controls through reputed facilities like Akums, Hetero, and Synokem — ensuring safety, purity, and consistency in every dose.
                   </p>
                 </div>
               </div>

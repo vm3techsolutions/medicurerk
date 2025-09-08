@@ -10,13 +10,19 @@ export default function AboutUs() {
       <div className="w-full md:w-2/3 space-y-4 text-center md:text-left">
         <h2 className="text-[#125C3A] text-2xl sm:text-3xl font-bold">ABOUT US</h2>
         <p className="text-[#191818] leading-relaxed text-sm sm:text-base">
-        Founded in 2020 with compassion and purpose, R K Medicare is a fast-growing pharmaceutical company dedicated to delivering high-quality, affordable healthcare solutions that serve the well-being of women, children, and families at large. Our journey began with a clear vision — to create a trusted healthcare brand that not only meets medical needs but understands the unique sensitivities of female and pediatric care.
+        {/* Founded in 2020 with compassion and purpose, R K Medicare is a fast-growing pharmaceutical company dedicated to delivering high-quality, affordable healthcare solutions that serve the well-being of women, children, and families at large. Our journey began with a clear vision — to create a trusted healthcare brand that not only meets medical needs but understands the unique sensitivities of female and pediatric care. */}
+
+Founded in 2020, our journey began with a clear and noble vision — to deliver high-quality, affordable healthcare solutions that serve the well-being of mankind. From day one, innovation and optimism have been the cornerstones of our growth, driving us to develop unique and effective therapeutic offerings. Embracing progress with purpose, we have moved forward without pause.
         </p>
         <p className="text-[#191818] leading-relaxed text-sm sm:text-base">
-        Innovation and optimism have been at the heart of our growth. With a thoughtfully curated portfolio spanning pharmaceuticals, personal care, wellness, and nutraceuticals, we offer products that support women through every stage of life — from adolescence to motherhood — and promote healthy development in children, from infancy through early growth years.
+        {/* Innovation and optimism have been at the heart of our growth. With a thoughtfully curated portfolio spanning pharmaceuticals, personal care, wellness, and nutraceuticals, we offer products that support women through every stage of life — from adolescence to motherhood — and promote healthy development in children, from infancy through early growth years. */}
+
+Today, we stand proudly as one of the fastest-growing pharmaceutical companies, recognized for our commitment to excellence and customer-centric approach. Our expanding portfolio spans across pharmaceuticals, personal care, wellness, and nutraceuticals, reflecting our ability to adapt to evolving healthcare needs with agility and foresight.
         </p>
          <p className="text-[#191818] leading-relaxed text-sm sm:text-base">
-        Our formulations are rooted in clinical science and crafted with maternal sensitivity, prioritizing safety, comfort, and efficacy. We collaborate with leading manufacturing partners like Akums, Hetero, and Synokem to ensure world-class quality while maintaining accessibility and affordability.
+        {/* Our formulations are rooted in clinical science and crafted with maternal sensitivity, prioritizing safety, comfort, and efficacy. We collaborate with leading manufacturing partners like Akums, Hetero, and Synokem to ensure world-class quality while maintaining accessibility and affordability. */}
+
+With a strong focus on research, innovation, and uncompromising quality, we have successfully established our presence in over Gyn, Pedia and GP therapeutic segments, along with a robust line of nutraceutical and personal care products. This sustained evolution has earned us not just market recognition, but the trust and loyalty of healthcare professionals and consumers alike.
         </p>
 <Link href="/aboutUs" passHref>
   <button className="bg-[#E9C46A] hover:bg-[#125C3A] hover:text-white text-black font-semibold px-6 py-2 rounded-3xl shadow-md transition">
