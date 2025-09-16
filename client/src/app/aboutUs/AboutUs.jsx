@@ -35,9 +35,9 @@ export default function AboutUs() {
         <h2 className="text-[#125C3A] text-2xl sm:text-3xl font-bold">ABOUT US</h2>
         
         <p className="text-[#191818] leading-relaxed text-sm sm:text-base">
-          {/* Founded in 2020 with compassion and purpose, R K Medicare is a fast-growing pharmaceutical company dedicated to delivering high-quality, affordable healthcare solutions that serve the well-being of women, children, and families at large. Our journey began with a clear vision — to create a trusted healthcare brand that not only meets medical needs but understands the unique sensitivities of female and pediatric care. */}
+          {/* Founded in 2020 with compassion and purpose, R K Medicure is a fast-growing pharmaceutical company dedicated to delivering high-quality, affordable healthcare solutions that serve the well-being of women, children, and families at large. Our journey began with a clear vision — to create a trusted healthcare brand that not only meets medical needs but understands the unique sensitivities of female and pediatric care. */}
 
-          Founded with compassion and vision, R K Medicare is a purpose-led pharmaceutical company dedicated to the health and well-being of women and children. Our journey began with a clear mission — to create a trusted healthcare brand that understands and addresses the unique needs of two of the most sensitive and underserved segments in healthcare: female and pediatric care.
+          Founded with compassion and vision, R K Medicure is a purpose-led pharmaceutical company dedicated to the health and well-being of women and children. Our journey began with a clear mission — to create a trusted healthcare brand that understands and addresses the unique needs of two of the most sensitive and underserved segments in healthcare: female and pediatric care.
         </p>
 
         <p className="text-[#191818] leading-relaxed text-sm sm:text-base">
@@ -53,9 +53,9 @@ export default function AboutUs() {
         </p>
 
         <p className="text-[#191818] leading-relaxed text-sm sm:text-base">
-          {/* With a strong presence in over 35 therapeutic areas, including key segments like Gynaecology, Pediatrics, and General Practice, R K Medicare continues to evolve with agility and foresight. Today, we are recognized not just for the therapies we provide, but for the values we uphold — compassion, quality, and care — earning the trust of healthcare professionals and families alike. */}
+          {/* With a strong presence in over 35 therapeutic areas, including key segments like Gynaecology, Pediatrics, and General Practice, R K Medicure continues to evolve with agility and foresight. Today, we are recognized not just for the therapies we provide, but for the values we uphold — compassion, quality, and care — earning the trust of healthcare professionals and families alike. */}
 
-          Today, R K Medicare is recognized as a trusted name in the pharma landscape — not just for the therapies we provide, but for the values we uphold. With a presence in 35+ therapeutic areas and expanding, we continue to evolve, innovate, and deliver — for healthier women, healthier children, and a healthier future.
+          Today, R K Medicure is recognized as a trusted name in the pharma landscape — not just for the therapies we provide, but for the values we uphold. With a presence in 35+ therapeutic areas and expanding, we continue to evolve, innovate, and deliver — for healthier women, healthier children, and a healthier future.
         </p>
 
         <h5 className="text-[#125C3A] leading-relaxed font-semibold text-md sm:text-lg">

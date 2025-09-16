@@ -10,7 +10,7 @@ export default function AboutUs() {
       <div className="w-full md:w-2/3 space-y-4 text-center md:text-left">
         <h2 className="text-[#125C3A] text-2xl sm:text-3xl font-bold">ABOUT US</h2>
         <p className="text-[#191818] leading-relaxed text-sm sm:text-base">
-        {/* Founded in 2020 with compassion and purpose, R K Medicare is a fast-growing pharmaceutical company dedicated to delivering high-quality, affordable healthcare solutions that serve the well-being of women, children, and families at large. Our journey began with a clear vision — to create a trusted healthcare brand that not only meets medical needs but understands the unique sensitivities of female and pediatric care. */}
+        {/* Founded in 2020 with compassion and purpose, R K Medicure is a fast-growing pharmaceutical company dedicated to delivering high-quality, affordable healthcare solutions that serve the well-being of women, children, and families at large. Our journey began with a clear vision — to create a trusted healthcare brand that not only meets medical needs but understands the unique sensitivities of female and pediatric care. */}
 
 Founded in 2020, our journey began with a clear and noble vision — to deliver high-quality, affordable healthcare solutions that serve the well-being of mankind. From day one, innovation and optimism have been the cornerstones of our growth, driving us to develop unique and effective therapeutic offerings. Embracing progress with purpose, we have moved forward without pause.
         </p>

@@ -10,10 +10,10 @@ export default function WhyChooseUs() {
           <h2 className="text-[#125C3A] text-xl md:text-3xl font-bold mb-4">WHY CHOOSE US ?</h2>
           
           <p className="text-[#191818] mb-8 ">
-            {/* At R K Medicare, we are committed to delivering healthcare solutions that matter especially in the
+            {/* At R K Medicure, we are committed to delivering healthcare solutions that matter especially in the
             sensitive areas of female and pediatric care. Here’s what makes us stand out: */}
 
-            At R K Medicare, we are committed to delivering healthcare solutions that matter — especially in the sensitive areas of female and pediatric care. Here’s what makes us stand out:
+            At R K Medicure, we are committed to delivering healthcare solutions that matter — especially in the sensitive areas of female and pediatric care. Here’s what makes us stand out:
           </p>
 
           <div className="space-y-8 text-sm text-[#191818] ">

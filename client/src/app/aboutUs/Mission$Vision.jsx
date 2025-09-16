@@ -18,9 +18,9 @@ export default function MissionVision() {
         height={36}
       />
       <p className="font-medium text-sm text-[#191818]">
-        {/* At R K Medicare, our mission is to address the evolving healthcare needs of women and children through: */}
+        {/* At R K Medicure, our mission is to address the evolving healthcare needs of women and children through: */}
 
-        At R K Medicare, our mission is to address the evolving healthcare needs of women and children through:
+        At R K Medicure, our mission is to address the evolving healthcare needs of women and children through:
       </p>
     </div>
     <ul className="list-disc pl-6 space-y-5 text-[#191818] text-sm flex-1">
@@ -52,7 +52,7 @@ export default function MissionVision() {
         height={36}
       />
       <p className="font-medium text-sm text-[#191818]">
-        {/* At R K Medicare, our vision is to become a trusted leader in female and pediatric healthcare by: */}
+        {/* At R K Medicure, our vision is to become a trusted leader in female and pediatric healthcare by: */}
 
         To become a trusted leader in female and pediatric healthcare by delivering innovative, safe, and accessible solutions that empower healthier generations and enhance the quality of life for women and children:
       </p>

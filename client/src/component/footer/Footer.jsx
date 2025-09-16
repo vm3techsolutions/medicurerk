@@ -58,14 +58,15 @@ export default function Footer() {
   <ul className="space-y-4 text-[#191818]">
     <li className="flex items-center gap-2">
       <FiPhone className="text-[#125C3A]"/>
-      <a href="tel:+91 +91 9876543210" className="hover:underline">
-       +91 0000000000
+      <a href="tel:+91 +91 8310478799" className="hover:underline">
+       +91 8310478799
+
       </a>
     </li>
     <li className="flex items-center gap-2">
       <FiMail className="text-[#125C3A]"/>
       <a href="mailto:admin@rkmedicurepharm.com " className="hover:underline">
-         admin@rkmedicurepharm.com 
+         admin@rkmedicurepharma.com 
       </a> 
        
     </li>
